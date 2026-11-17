@@ -1,0 +1,6 @@
+{
+  "name": "FibreSales CRM",
+  "description": "Commission-based fibre sales operations CRM for managing leads, pipeline stages, sales agents, quality assurance reviews, and commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
